@@ -1,0 +1,7 @@
+{
+	"After School": ["Monday after school", "Tuesday after school", "Wednesday after school", "Thursday after school", "Friday after school"],
+	"Lunches": ["Monday Lunch", "Tuesday Lunch", "Wednesday Lunch", "Thursday Lunch", "Friday Lunch"],
+	"Free Periods": ["A1", "A2", "A3", "A4", "B1", "B2", "B3", "B4"],
+	"Flex Periods": ["Monday flex", "Wednesday flex", "Friday flex"],
+	"Other": ["Saturday", "Sunday"]
+}

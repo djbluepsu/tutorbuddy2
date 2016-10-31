@@ -1,0 +1,1 @@
+[13-Oct-2015 20:37:07 UTC] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/ary21718/public_html/signup/index.php on line 83
